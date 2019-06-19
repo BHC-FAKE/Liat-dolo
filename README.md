@@ -7,7 +7,7 @@ $apt update && apt upgrade<br>
 $pkg install python2<br>
 $pkg install python<br>
 $pkg install git<br>
-$git clone https://github.com/ICT-FAKE/Liat-dolo<br>
+$git clone https://github.com/BHC-FAKE/Liat-dolo<br>
 $cd Liat-dolo<br>
 $ls<br>
 $python2 AdminFinder.py<br>
